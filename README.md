@@ -7,6 +7,12 @@ In this project, we were asked to modify a starter code to create a simple calen
 
 ## Resources
 
+I used the following references for this assignment:
+
+**Day.js** (https://day.js.org/docs/en/display/format) to display the current date and time.
+
+
+
 ## My Application Screenshot
 
 ![alt text](./05-third-party-apis-homework-demo.gif)
