@@ -57,3 +57,17 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+#statusWindow {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.statusMessage {
+  display: none;
+  color: #179917;
+}
+
+.show {
+  display: block;
+}

@@ -31,19 +31,20 @@
       <p class="lead"><span id="currentDay"></span> &middot; <span id="currentTime"></span></p>
     </header>
 
-    <section id="statusWindow">
+    <section id="statusWindow" class="statusMessage">
 <!-- status message goes here -->
+Saved!
     </section>
 
-    <div class="container-lg px-5">
-      
-<!-- JS should add:
+    <!-- JS should add:
   class = "past" for past time block 
   class = "present" for present time block
   class = "future" for future time block
   
   add/remove these classes on each div by comparing the hour in the id to the current hour
 -->
+
+    <div class="container-lg px-5">
 
       <div id="hour-9" class="row time-block">
         <div class="col-2 col-md-1 hour text-center py-3">9AM</div>
